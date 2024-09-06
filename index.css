@@ -1,0 +1,43 @@
+body{
+    /* border: 2px solid gray; */
+    height: 400px;
+    width: 500px;
+}
+
+h1{
+    color: rgb(121, 120, 120);
+    text-align: center;
+}
+
+
+#labelname,#labelemail,#labelphone{
+  color: burlywood;
+  margin-left: 120px;
+ 
+  
+}
+
+button{
+    display: block;
+    margin-left: 120px;
+    margin-top: 10px;
+    width: 80px;
+    height: 23px;
+    background-color: blanchedalmond;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+.tr{
+    display: block;
+    margin-top: 15px;
+    margin-left: 115px;
+}
+
+.th{
+    /* display: block; */
+    margin-right: 5px;
+}
+table, th, td {
+    border: 1px solid black;
+  }
